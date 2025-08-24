@@ -42,4 +42,17 @@ This project is a foundational clone of the AirBnB web application, built to dee
 
 ## 💡 Importance of User-Friendly Design
 In a booking system, user-friendly design is essential to reduce friction and build trust. A clean interface helps users navigate effortlessly, make informed decisions, and complete bookings with confidence. It also minimizes errors and enhances accessibility, ensuring a positive experience for all users.
+## 🧩 UI Component Patterns
+
+This section outlines the reusable UI components planned for the AirBnB Clone project. These components are designed to ensure consistency, responsiveness, and a smooth user experience across the platform.
+
+### 🔧 Planned Components
+
+| Component      | Description                                                                 |
+|----------------|-----------------------------------------------------------------------------|
+| Navbar         | A responsive navigation bar with links to Home, Listings, and Profile pages |
+| Property Card  | A modular card layout displaying property image, name, price, and rating    |
+| Footer         | A clean footer with contact info, social links, and copyright notice        |
+
+Each component will follow modern UI/UX principles, with attention to accessibility, mobile responsiveness, and visual clarity. These patterns will serve as building blocks for scalable front-end development.
 
